@@ -1,0 +1,19 @@
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.exe.config
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.exe
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.pdb
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.mainForm.resources
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.Properties.Resources.resources
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.csproj.GenerateResource.Cache
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.exe
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.pdb
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.exe.manifest
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.application
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.exe.manifest
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.application
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\x86\Debug\App_Ref\HelveticaNeueLTStd-BlkIt.ttf
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\x86\Debug\App_Ref\HelveticaNeueLTStd-BlkIt.otf
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.TrustInfo.xml
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.exe.config
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.exe
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.pdb

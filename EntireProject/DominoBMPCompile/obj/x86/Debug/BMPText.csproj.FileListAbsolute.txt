@@ -1,0 +1,14 @@
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.exe.config
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.exe.manifest
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.application
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.exe
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\bin\x86\Debug\DominoBMPCompile.pdb
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.mainForm.resources
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\BMPText.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.TrustInfo.xml
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.exe.manifest
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.application
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.exe
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\DominoBMPCompile.pdb
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\Bitmap Text Maker\DominoBMPCompile\obj\x86\Debug\BMPText.csprojResolveAssemblyReference.cache

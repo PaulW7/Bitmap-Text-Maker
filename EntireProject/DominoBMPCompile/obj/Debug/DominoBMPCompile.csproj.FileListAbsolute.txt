@@ -1,0 +1,13 @@
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\Debug\DominoBMPCompile.exe.config
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\Debug\DominoBMPCompile.exe
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\Debug\DominoBMPCompile.pdb
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\Debug\DominoBMPCompile.mainForm.resources
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\Debug\DominoBMPCompile.Properties.Resources.resources
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\Debug\DominoBMPCompile.csproj.GenerateResource.Cache
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\Debug\DominoBMPCompile.exe
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\Debug\DominoBMPCompile.pdb
+C:\Users\Paul\documents\visual studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\Debug\DominoBMPCompile.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\Debug\DominoBMPCompile.exe.manifest
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\DominoBMP\DominoBMPCompile\bin\Debug\DominoBMPCompile.application
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\Debug\DominoBMPCompile.exe.manifest
+C:\Users\Paul\Documents\Visual Studio 2013\Projects\DominoBMP\DominoBMPCompile\obj\Debug\DominoBMPCompile.application
