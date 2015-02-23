@@ -17,4 +17,4 @@ The data class contains the sets for folder names.
 
 
 *****Further******************
-Convert over to object oriented design as this was done in procedural.
+Use as needed a great reference
